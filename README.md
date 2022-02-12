@@ -10,7 +10,7 @@ The original repo is https://github.com/mapbox/maki and this repo follows the sa
 ~~Seems that Kepler.gl using triangulation for generating svgs. Maybe it is not adaptable directly. It should be the main reason that kepler still cannot add customized icon.~~
 
 
-Update: the new version has sucessfully made the triangluated icons that can directly utilized in [enhanced kepler](https://natsuapo.github.io/keplerjis/). 
+Update: the new version has sucessfully made the triangluated icons that can directly utilized in [enhanced kepler](https://natsuapo.github.io/keplerjis/). Notice that since I triangulated the original svg, there might be some distortions in the new icons. 
 
 Examples: 
 - Horse-rider
