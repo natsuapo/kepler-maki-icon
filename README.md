@@ -14,3 +14,4 @@ Update: the new version has sucessfully made the triangluated icons that can dir
 
 
 
+I will organize and prepare the docs on how to build it in original Kepler source later.
